@@ -1,2 +1,2 @@
-include hello_world_signed.yml
+include *.yml
 recursive-exclude .git *
